@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 - Video JS
  * ES6
  * Framework Javascript
+  ^Vue
 - Framework
+  ^Laravel
 - Interview
 - Vlogs
 - Fundamental Data structure
+- Python
